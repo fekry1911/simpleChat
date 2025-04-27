@@ -15,11 +15,11 @@ The simpleChat project is a real-time chat application built using Flutter. It a
 ### 2. **Dart**
 - **Dart** is the programming language used to develop the app. It works seamlessly with Flutter to deliver high-performance applications.
 
-- ### 3. **Firebase**
+### 3. **Firebase**
 
-Firebase Auth for user authentication.
+- Firebase Auth for user authentication.
 
-Firebase Firestore for storing and retrieving chat messages in real time.
+- Firebase Firestore for storing and retrieving chat messages in real time.
 
-Firebase Cloud Messaging (optional): For sending push notifications to users when new messages are received (you can add this feature in the future).
+- Firebase Cloud Messaging (optional): For sending push notifications to users when new messages are received (you can add this feature in the future).
 
